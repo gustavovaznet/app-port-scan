@@ -1,2 +1,2 @@
-# app-port-scan
-Port Scan
+# Port Scan
+Simple port scan using Python.
